@@ -1,38 +1,110 @@
-.App {
-  text-align: center;
+body{
+   background:url("./keith-misner-h0Vxgz5tyXA-unsplash.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Ranchers', cursive;   
+    padding: 0px;
+    margin: 0px;
+}
+img{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 10px;
+}
+.input-holder{
+    background-color: black;
+    width: 300px;
+    height: 100px;
+    padding:30px 10px 10px 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+}
+.cont{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+ul{
+    list-style: none;
+    width: 200px;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    font-weight: bolder;
+}
+.cross{
+    color:red;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 6px;
+    width: 300px;
+    font-size: 16px;
+    margin: 10px 0px;
+    height: 100px;
+}
+.show{
+    display: block;
+}
+.hide{
+    display: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.none{
+    color:rgb(243, 242, 242);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 6px;
+    width:300px;
+    font-size: 16px;
+    margin:10px 0px;
+    height: 100px;
+}
+.btn-container{
+    display: flex;
+    position: relative;
+    top: 20px;
+}
+.btn1{
+    background-color:red;
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+    font-size: 15px;
+    color: white;
+    margin-right: 10px;
+}
+.btn2{
+    background-color: green;
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+    font-size: 15px;
+    color: white;
+}
+.inputField{
+    padding: 6px;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 200px;
+    outline: none;
+    font-size: 18px;
+ 
+}
+.addButton{
+    background-color: rgb(255, 169, 8);
+    color: black;
+    border-radius: 10px;
+    padding: 6px;
+    border: none;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-left: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
