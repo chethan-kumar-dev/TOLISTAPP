@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TOLISTAPP/static/css/main.5d2cdd21.chunk.css",
+    "main.js": "/TOLISTAPP/static/js/main.0c941c8c.chunk.js",
+    "main.js.map": "/TOLISTAPP/static/js/main.0c941c8c.chunk.js.map",
+    "runtime-main.js": "/TOLISTAPP/static/js/runtime-main.4faa4741.js",
+    "runtime-main.js.map": "/TOLISTAPP/static/js/runtime-main.4faa4741.js.map",
+    "static/js/2.21057362.chunk.js": "/TOLISTAPP/static/js/2.21057362.chunk.js",
+    "static/js/2.21057362.chunk.js.map": "/TOLISTAPP/static/js/2.21057362.chunk.js.map",
+    "index.html": "/TOLISTAPP/index.html",
+    "static/css/main.5d2cdd21.chunk.css.map": "/TOLISTAPP/static/css/main.5d2cdd21.chunk.css.map",
+    "static/js/2.21057362.chunk.js.LICENSE.txt": "/TOLISTAPP/static/js/2.21057362.chunk.js.LICENSE.txt",
+    "static/media/check.f306c526.png": "/TOLISTAPP/static/media/check.f306c526.png",
+    "static/media/App.css": "/TOLISTAPP/static/media/keith-misner-h0Vxgz5tyXA-unsplash.4dca6388.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4faa4741.js",
+    "static/js/2.21057362.chunk.js",
+    "static/css/main.5d2cdd21.chunk.css",
+    "static/js/main.0c941c8c.chunk.js"
+  ]
+}
