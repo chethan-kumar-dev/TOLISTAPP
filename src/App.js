@@ -42,12 +42,9 @@ import image from "./check.png"
    <div className="input-holder">
    <input className="inputField" type="text" placeholder="Enter task...." value={task} onInput={hanlder}></input>
       <button className="addButton" onClick={show}>ADD</button>
-     
-
    </div>
-     
     <ul>
-    {taskList.map(t=><li className={t.isCompleted?"cross":"none"} >{t.value}
+    {taskList.map(t=><li className={t.isCompleted?"cross":"none"} key={t.id} >{t.value}
     <div className="btn-container">
       <button className="btn1" onClick={(e)=>delet(e,t.id)}>delete</button>
       <button className="btn2" onClick={(e)=>completed(e,t.id)} >completed</button>

@@ -1,12 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import TodoApp from './App';
-import'bootstrap/dist/css/bootstrap.min.css';
-import $ from'jquery';
-import Popper from'popper.js';
-import'bootstrap/dist/js/bootstrap.bundle.min';
+import Todo from './App';
 
-ReactDOM.render(<TodoApp/>,document.getElementById('root'));
+
+ReactDOM.render(<Todo/>,document.getElementById('root'));
 
 

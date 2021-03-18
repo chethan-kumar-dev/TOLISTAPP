@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wildcraft2873/TODOAPPDEV.git/static/css/main.ed6bdd7b.chunk.css",
+    "main.js": "/wildcraft2873/TODOAPPDEV.git/static/js/main.0c941c8c.chunk.js",
+    "main.js.map": "/wildcraft2873/TODOAPPDEV.git/static/js/main.0c941c8c.chunk.js.map",
+    "runtime-main.js": "/wildcraft2873/TODOAPPDEV.git/static/js/runtime-main.f296f53e.js",
+    "runtime-main.js.map": "/wildcraft2873/TODOAPPDEV.git/static/js/runtime-main.f296f53e.js.map",
+    "static/js/2.21057362.chunk.js": "/wildcraft2873/TODOAPPDEV.git/static/js/2.21057362.chunk.js",
+    "static/js/2.21057362.chunk.js.map": "/wildcraft2873/TODOAPPDEV.git/static/js/2.21057362.chunk.js.map",
+    "index.html": "/wildcraft2873/TODOAPPDEV.git/index.html",
+    "static/css/main.ed6bdd7b.chunk.css.map": "/wildcraft2873/TODOAPPDEV.git/static/css/main.ed6bdd7b.chunk.css.map",
+    "static/js/2.21057362.chunk.js.LICENSE.txt": "/wildcraft2873/TODOAPPDEV.git/static/js/2.21057362.chunk.js.LICENSE.txt",
+    "static/media/check.f306c526.png": "/wildcraft2873/TODOAPPDEV.git/static/media/check.f306c526.png",
+    "static/media/App.css": "/wildcraft2873/TODOAPPDEV.git/static/media/keith-misner-h0Vxgz5tyXA-unsplash.4dca6388.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f296f53e.js",
+    "static/js/2.21057362.chunk.js",
+    "static/css/main.ed6bdd7b.chunk.css",
+    "static/js/main.0c941c8c.chunk.js"
+  ]
+}
