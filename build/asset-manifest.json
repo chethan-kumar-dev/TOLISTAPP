@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wildcraft2873/TODODEVAPP.git/static/css/main.fb6fdbe8.chunk.css",
-    "main.js": "/wildcraft2873/TODODEVAPP.git/static/js/main.0c941c8c.chunk.js",
-    "main.js.map": "/wildcraft2873/TODODEVAPP.git/static/js/main.0c941c8c.chunk.js.map",
-    "runtime-main.js": "/wildcraft2873/TODODEVAPP.git/static/js/runtime-main.741319bc.js",
-    "runtime-main.js.map": "/wildcraft2873/TODODEVAPP.git/static/js/runtime-main.741319bc.js.map",
-    "static/js/2.21057362.chunk.js": "/wildcraft2873/TODODEVAPP.git/static/js/2.21057362.chunk.js",
-    "static/js/2.21057362.chunk.js.map": "/wildcraft2873/TODODEVAPP.git/static/js/2.21057362.chunk.js.map",
-    "index.html": "/wildcraft2873/TODODEVAPP.git/index.html",
-    "static/css/main.fb6fdbe8.chunk.css.map": "/wildcraft2873/TODODEVAPP.git/static/css/main.fb6fdbe8.chunk.css.map",
-    "static/js/2.21057362.chunk.js.LICENSE.txt": "/wildcraft2873/TODODEVAPP.git/static/js/2.21057362.chunk.js.LICENSE.txt",
-    "static/media/check.f306c526.png": "/wildcraft2873/TODODEVAPP.git/static/media/check.f306c526.png",
-    "static/media/App.css": "/wildcraft2873/TODODEVAPP.git/static/media/keith-misner-h0Vxgz5tyXA-unsplash.4dca6388.jpg"
+    "main.css": "/toDOAPPList/static/css/main.7e5fd6e9.chunk.css",
+    "main.js": "/toDOAPPList/static/js/main.0c941c8c.chunk.js",
+    "main.js.map": "/toDOAPPList/static/js/main.0c941c8c.chunk.js.map",
+    "runtime-main.js": "/toDOAPPList/static/js/runtime-main.d6d9e024.js",
+    "runtime-main.js.map": "/toDOAPPList/static/js/runtime-main.d6d9e024.js.map",
+    "static/js/2.21057362.chunk.js": "/toDOAPPList/static/js/2.21057362.chunk.js",
+    "static/js/2.21057362.chunk.js.map": "/toDOAPPList/static/js/2.21057362.chunk.js.map",
+    "index.html": "/toDOAPPList/index.html",
+    "static/css/main.7e5fd6e9.chunk.css.map": "/toDOAPPList/static/css/main.7e5fd6e9.chunk.css.map",
+    "static/js/2.21057362.chunk.js.LICENSE.txt": "/toDOAPPList/static/js/2.21057362.chunk.js.LICENSE.txt",
+    "static/media/check.f306c526.png": "/toDOAPPList/static/media/check.f306c526.png",
+    "static/media/App.css": "/toDOAPPList/static/media/keith-misner-h0Vxgz5tyXA-unsplash.4dca6388.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.741319bc.js",
+    "static/js/runtime-main.d6d9e024.js",
     "static/js/2.21057362.chunk.js",
-    "static/css/main.fb6fdbe8.chunk.css",
+    "static/css/main.7e5fd6e9.chunk.css",
     "static/js/main.0c941c8c.chunk.js"
   ]
 }
